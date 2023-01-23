@@ -1,0 +1,92 @@
+{
+  "_from": "react-native-multiple-select",
+  "_id": "react-native-multiple-select@0.5.7",
+  "_inBundle": false,
+  "_integrity": "sha512-scVCrOKwGacOYspWa8aINoe+cmMHc5yEMERThUXa04P9VNFWsq9NoQEwLKI+cCXPhe+VMg0+NsoLIhUGTn69fg==",
+  "_location": "/react-native-multiple-select",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-multiple-select",
+    "name": "react-native-multiple-select",
+    "escapedName": "react-native-multiple-select",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-multiple-select/-/react-native-multiple-select-0.5.7.tgz",
+  "_shasum": "4770b465b3d5a14e8120dc4fc8933039ba2a8644",
+  "_spec": "react-native-multiple-select",
+  "_where": "E:\\Workspace\\Synergy\\cloudes2021-synergy-app",
+  "author": {
+    "name": "Mustapha Babatunde Oluwaleke"
+  },
+  "bugs": {
+    "url": "https://github.com/toystars/react-native-multiple-select/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  },
+  "deprecated": false,
+  "description": "Simple multi-select component for react-native",
+  "devDependencies": {
+    "babel-eslint": "^10.0.2",
+    "babel-jest": "24.9.0",
+    "babel-preset-react-native": "^4.0.1",
+    "eslint": "^6.5.1",
+    "eslint-config-airbnb": "^17.1.1",
+    "eslint-config-react-native": "^4.0.0",
+    "eslint-plugin-import": "^2.18.1",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.14.3",
+    "eslint-plugin-react-native": "^3.7.0",
+    "husky": "^3.1.0",
+    "jest": "^24.9.0",
+    "lint-staged": "^9.4.3",
+    "prettier": "^1.19.1",
+    "react-test-renderer": "16.9.0",
+    "remote-redux-devtools": "^0.5.16"
+  },
+  "homepage": "https://github.com/toystars/react-native-multiple-select#readme",
+  "jest": {
+    "preset": "jest-react-native"
+  },
+  "keywords": [
+    "reactnative",
+    "multiselect",
+    "multi-select",
+    "react-native"
+  ],
+  "license": "MIT",
+  "lint-staged": {
+    "*.{js,json,css}": [
+      "prettier --single-quote --write",
+      "git add"
+    ]
+  },
+  "main": "index.js",
+  "name": "react-native-multiple-select",
+  "peerDependencies": {
+    "lodash": ">4.17.00",
+    "react": ">16.6.0",
+    "react-native": ">0.57.0",
+    "react-native-vector-icons": ">6.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toystars/react-native-multiple-select.git"
+  },
+  "scripts": {
+    "lint": "eslint lib/",
+    "precommit": "lint-staged",
+    "publish": "npm publish --access public",
+    "test": "jest"
+  },
+  "version": "0.5.7"
+}

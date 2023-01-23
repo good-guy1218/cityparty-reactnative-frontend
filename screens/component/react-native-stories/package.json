@@ -1,0 +1,70 @@
+{
+  "_from": "react-native-stories",
+  "_id": "react-native-stories@0.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-w3YjX1d88KZUKEkCePM8SXWNBJWi9mMd0PuV3cTZ0TXJcMNL7o5pYYGD2bN6NE4B3QQTl6amcqECQiXSha/MjA==",
+  "_location": "/react-native-stories",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-stories",
+    "name": "react-native-stories",
+    "escapedName": "react-native-stories",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-stories/-/react-native-stories-0.0.3.tgz",
+  "_shasum": "a60f9827842671597b6447e6ba7c39a291c8428e",
+  "_spec": "react-native-stories",
+  "_where": "E:\\Workspace\\Synergy\\cloudes2021-synergy-app",
+  "author": {
+    "name": "Team Jynx",
+    "email": "contact@jynxit.us",
+    "url": "https://jynxit.us"
+  },
+  "bugs": {
+    "url": "https://github.com/letsjynx/react-native-stories/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Anshuman Bhardwaj",
+      "email": "anshu5074@gmail.com",
+      "url": "https://github.com/Anshuman71"
+    }
+  ],
+  "deprecated": false,
+  "description": "Whatsapp, Instagram like story component for react-native",
+  "devDependencies": {
+    "prop-types": "^15.6.2"
+  },
+  "homepage": "https://jynxit.us",
+  "keywords": [
+    "react-native",
+    "react",
+    "story",
+    "whatsapp",
+    "instagram"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-stories",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/letsjynx/react-native-stories.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.3"
+}
